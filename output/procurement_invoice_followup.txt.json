@@ -1,0 +1,28 @@
+{
+  "source_path": "C:\\Users\\yadav_ad\\Documents\\warp\\kmrl-doc-mvp\\samples\\procurement_invoice_followup.txt",
+  "file_name": "procurement_invoice_followup.txt",
+  "file_sha256": "0a499727a8fe11c63749ed14010160bc5f9e4c14f49e2612043aaafa21f23868",
+  "language": "en",
+  "title": "Subject: Vendor Invoice Follow-up – PO 4500123456",
+  "summary_sentences": [
+    "Subject: Vendor Invoice Follow-up – PO 4500123456",
+    "We have received Invoice INV-2025/0911 from M/s ABC Components for ₹ 4,25,000 against GRN 90007821.",
+    "As per PO terms, payment is due within 15 days of GRN.",
+    "- Finance must verify GST details and process by 28/09/2025.",
+    "- In case of mismatch, vendor to be notified immediately."
+  ],
+  "action_items": [
+    "We have received Invoice INV-2025/0911 from M/s ABC Components for ₹ 4,25,000 against GRN 90007821. As per PO terms, payment is due within 15 days of GRN.",
+    "Action Required:",
+    "- Finance must verify GST details and process by 28/09/2025.",
+    "- In case of mismatch, vendor to be notified immediately."
+  ],
+  "tags": [
+    "Procurement/Finance"
+  ],
+  "detected_dates": [
+    "28/09/2025"
+  ],
+  "detected_amounts": [],
+  "first_seen_at": "2025-09-28T11:20:07.484504Z"
+}

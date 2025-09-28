@@ -1,0 +1,21 @@
+{
+  "source_path": "C:\\Users\\yadav_ad\\Documents\\warp\\kmrl-doc-mvp\\.venv\\Lib\\site-packages\\pip\\_vendor\\vendor.txt",
+  "file_name": "vendor.txt",
+  "file_sha256": "7dac2af13d5715f061b38ae38d29787d40373f1f4fda6b46d9ebeaa8fca16e17",
+  "language": "en",
+  "title": "CacheControl==0.14.3",
+  "summary_sentences": [
+    "msgpack==1.1.1",
+    "pyproject-hooks==1.2.0",
+    "resolvelib==1.2.0",
+    "tomli==2.2.1",
+    "tomli-w==1.2.0"
+  ],
+  "action_items": [],
+  "tags": [
+    "Legal/Compliance"
+  ],
+  "detected_dates": [],
+  "detected_amounts": [],
+  "first_seen_at": "2025-09-28T11:10:51.245535Z"
+}

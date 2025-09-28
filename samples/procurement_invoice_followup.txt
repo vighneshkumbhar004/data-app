@@ -1,0 +1,7 @@
+Subject: Vendor Invoice Follow-up – PO 4500123456
+
+We have received Invoice INV-2025/0911 from M/s ABC Components for ₹ 4,25,000 against GRN 90007821. As per PO terms, payment is due within 15 days of GRN.
+
+Action Required:
+- Finance must verify GST details and process by 28/09/2025.
+- In case of mismatch, vendor to be notified immediately.

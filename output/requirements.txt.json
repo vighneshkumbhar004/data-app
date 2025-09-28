@@ -1,0 +1,21 @@
+{
+  "source_path": "C:\\Users\\yadav_ad\\Documents\\warp\\kmrl-doc-mvp\\requirements.txt",
+  "file_name": "requirements.txt",
+  "file_sha256": "063631a589237e94fa1a64b3eabcca4fbcb6c489b5515dea0208fcffcda27805",
+  "language": "fr",
+  "title": "pypdf==4.2.0",
+  "summary_sentences": [
+    "pypdf==4.2.0",
+    "python-docx==1.1.2",
+    "langdetect==1.0.9",
+    "chardet==5.2.0",
+    "tqdm==4.66.4"
+  ],
+  "action_items": [],
+  "tags": [
+    "General"
+  ],
+  "detected_dates": [],
+  "detected_amounts": [],
+  "first_seen_at": "2025-09-28T11:10:51.112401Z"
+}

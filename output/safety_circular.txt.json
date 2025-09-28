@@ -1,0 +1,28 @@
+{
+  "source_path": "C:\\Users\\yadav_ad\\Documents\\warp\\kmrl-doc-mvp\\samples\\safety_circular.txt",
+  "file_name": "safety_circular.txt",
+  "file_sha256": "14e31dd8ecd540932de8e528153cc97eb20d340b80b2c3678e157569487ad2b5",
+  "language": "en",
+  "title": "Subject: Safety Circular â€“ Platform Edges After Rainfall",
+  "summary_sentences": [
+    "Subject: Safety Circular â€“ Platform Edges After Rainfall",
+    "CRS has advised additional caution for slippery conditions at platform edges following heavy rainfall events.",
+    "Station controllers should ensure that safety announcements are made every 15 minutes during rain.",
+    "- Shift in-charge shall brief all staff before duty start.",
+    "- Immediate placement of caution boards on affected platforms."
+  ],
+  "action_items": [
+    "CRS has advised additional caution for slippery conditions at platform edges following heavy rainfall events. Station controllers should ensure that safety announcements are made every 15 minutes during rain.",
+    "- Shift in-charge shall brief all staff before duty start.",
+    "- Compliance report to be submitted within 24 hours."
+  ],
+  "tags": [
+    "Safety",
+    "HR/Training",
+    "Legal/Compliance",
+    "Operations/Stations"
+  ],
+  "detected_dates": [],
+  "detected_amounts": [],
+  "first_seen_at": "2025-09-28T11:20:07.488115Z"
+}

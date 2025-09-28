@@ -1,0 +1,28 @@
+{
+  "source_path": "C:\\Users\\yadav_ad\\Documents\\warp\\kmrl-doc-mvp\\samples\\engineering_maintenance_notice.txt",
+  "file_name": "engineering_maintenance_notice.txt",
+  "file_sha256": "16a8e4762153f9959e83fd3dffe7ab6360a3606abae123f6824988a2d4727ae8",
+  "language": "en",
+  "title": "Subject: Maintenance Job Card Consolidation â€“ October 2025",
+  "summary_sentences": [
+    "Subject: Maintenance Job Card Consolidation â€“ October 2025",
+    "As discussed in the depot review, all pending job cards for Trainset 12 require closure before 2025-10-15.",
+    "The bogie brake lining inspection must be completed and recorded in Maximo.",
+    "- Update Maximo job cards with photographs before submission.",
+    "- Engineering supervisor shall approve by 2025-10-12."
+  ],
+  "action_items": [
+    "As discussed in the depot review, all pending job cards for Trainset 12 require closure before 2025-10-15. The bogie brake lining inspection must be completed and recorded in Maximo. Please ensure pantograph contact shoe wear limits are verified.",
+    "- Engineering supervisor shall approve by 2025-10-12."
+  ],
+  "tags": [
+    "Engineering/Rolling Stock",
+    "IT/Systems"
+  ],
+  "detected_dates": [
+    "2025-10-15",
+    "2025-10-12"
+  ],
+  "detected_amounts": [],
+  "first_seen_at": "2025-09-28T11:20:07.464427Z"
+}

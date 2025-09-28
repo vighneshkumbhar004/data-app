@@ -1,0 +1,8 @@
+Subject: Maintenance Job Card Consolidation – October 2025
+
+As discussed in the depot review, all pending job cards for Trainset 12 require closure before 2025-10-15. The bogie brake lining inspection must be completed and recorded in Maximo. Please ensure pantograph contact shoe wear limits are verified.
+
+Action:
+- Update Maximo job cards with photographs before submission.
+- Engineering supervisor shall approve by 2025-10-12.
+- Any parts shortage to be raised as PR in SAP.

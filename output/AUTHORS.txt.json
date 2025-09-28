@@ -1,0 +1,26 @@
+{
+  "source_path": "C:\\Users\\yadav_ad\\Documents\\warp\\kmrl-doc-mvp\\.venv\\Lib\\site-packages\\pip-25.2.dist-info\\licenses\\AUTHORS.txt",
+  "file_name": "AUTHORS.txt",
+  "file_sha256": "8a811f3069248b37137083ddbe387e918ca63b513d23d76fcc78cb525292e66f",
+  "language": "en",
+  "title": "@Switch01",
+  "summary_sentences": [
+    "David Black",
+    "David Runge",
+    "David Tucker",
+    "David Wales",
+    "David Murray"
+  ],
+  "action_items": [
+    "JoshuaPerdue",
+    "Kamal Bin Mustafa"
+  ],
+  "tags": [
+    "Engineering/Rolling Stock",
+    "HR/Training",
+    "Legal/Compliance"
+  ],
+  "detected_dates": [],
+  "detected_amounts": [],
+  "first_seen_at": "2025-09-28T11:10:51.318468Z"
+}
